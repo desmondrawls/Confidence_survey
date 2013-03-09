@@ -1,0 +1,41 @@
+#container {
+  width:  900px;
+}
+
+#header {
+	width: 900px;
+	height:  160px;
+	background-image:  url(images/headerBG.jpg);
+}
+
+#leftnav {
+	float: left;
+	width: 200px;
+	height: 400px;
+	background-color: F8AA3C;
+	border-right: 1px dashed #333;
+	color: #83b8b3;
+}
+
+#rightnav {
+	float: right;
+	width: 200px;
+	height: 400px;
+	background-color: F8AA3C;
+	border-left: 1px dashed #333;
+	
+}
+
+
+
+#body {
+	width:  760px;
+	height:  400px;
+	text-align: center;
+	background-color: EEBC72;	
+}
+
+#footer {
+	clear: both;
+	background-color: #D1C0A7;
+}
